@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AbiezerLopezgh
-- 👀 I’m interested in Flutter and C#
-- 🌱 I’m currently learning Flutter, React and Angular.
-- 📫 How to reach me abr_lopezr11@unicah.edu
+
